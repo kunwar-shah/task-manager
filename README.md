@@ -1,0 +1,1 @@
+"# Task Manager Application  This project is a comprehensive full-stack JavaScript application built as a learning exercise. Each branch represents a chapter in the development process, demonstrating various aspects of full-stack development.  Please check individual chapter branches for detailed README files specific to each stage of development." 
